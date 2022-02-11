@@ -1,7 +1,7 @@
 ![Lessons Learned](imgs/projeto01.png)
 
 # Lessons Learned
-Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML e CSS vanilla no módulo de fundamentos. Entregue com 100% dos requisitos.
+Projeto feito enquanto estudava na [Trybe](https://www.betrybe.com/), utilizando HTML e CSS no módulo de fundamentos. Entregue com 100% dos requisitos.
 
 ## Direitos autorais
 
