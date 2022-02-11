@@ -1,0 +1,172 @@
+body {
+  background-color: white;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto Mono, monospace;
+  font-size: 15px;
+  color: rgb(29, 29, 29);
+  line-height: 23px;
+}
+
+#cabecalho {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(49, 107, 131);
+  height: 70px;
+  color: white;
+}
+
+#cabecalho h1 {
+  margin: 10px auto;
+}
+
+#menu {
+  background-color: rgb(109, 130, 153);
+  width: 100%;
+  height: 25px;
+  padding: 0;
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#menu li {
+  list-style-type: none;
+  display: inline;
+  margin: 0 2em 0 0;
+}
+
+#minha_foto {
+  width: 200px;
+  border-radius: 200px;
+  display: inline-block;
+}
+
+.lado-esquerdo h2 {
+  padding-left: 10px;
+  margin-bottom: -10px;
+}
+
+.lado-direito h2 {
+  padding-left: 10px;
+  margin-bottom: -10px;
+}
+
+#minha_foto h2 {
+  padding-bottom: 15px;
+}
+
+#conteudo {
+  height: 580px;
+  margin-left: 310px;
+  margin-top: -585px;
+  margin-right: 235px;
+}
+
+.lado-direito {
+  width: 225px;
+  float: right;
+  background-color: rgb(140, 161, 165);
+  color: white;
+  border-radius: 5px;
+  margin-top: -593px;
+  height: 360px;
+  padding-bottom: 18px;
+}
+
+.lado-direito p {
+  padding: 10px;
+  margin-bottom: -5px;
+}
+
+
+.lado-esquerdo {
+  max-height: 570px;
+  width: 100%;
+  float: left;
+  background-color: rgb(140, 161, 165);
+  color: white;
+  border-radius: 5px;
+  margin-top: -13px;
+  height: 360px;
+  padding-bottom: 18px;
+}
+
+.lado-esquerdo p {
+  padding: 10px;
+  margin-bottom: -5px;
+}
+
+
+#tudo {
+  padding-top: 80px;
+  margin: auto 15%;
+}
+
+#eu {
+  width: 290px;
+  text-align: center;
+  background-color: rgb(109, 130, 153);
+  color: white;
+  border-radius: 5px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+#eu h2 {
+  margin: 0;
+}
+
+#licoes_aprendidas {
+  width: 100px;
+  display: inline-block;
+  list-style-type: none;
+  background-color: rgb(109, 130, 153);
+  color: white;
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
+
+#fotolista {
+  width: 290px;
+}
+
+#licoes_a_aprender {
+  width: 100px;
+  display: inline-block;
+  list-style-type: none;
+  background-color: rgb(109, 130, 153);
+  color: white;
+  border-radius: 5px;
+  padding-bottom: 10px;
+}
+
+#tabela {
+  height: 190px;
+  margin-left: 310px;
+  margin-top: -200px;
+  background-color: rgb(140, 161, 165);
+  color: white;
+  border-radius: 5px;
+}
+
+#tabela table {
+  margin: 0 auto;
+  padding-top: 3.5em;
+}
+
+#rodape {
+  margin-top: 10px;
+  background-color: rgb(49, 107, 131);
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#rodape a {
+  text-decoration: none;
+  color: inherit;
+}
